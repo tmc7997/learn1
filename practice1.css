@@ -1,0 +1,43 @@
+.thumbnail{
+    background-color: #eee;
+    text-align: center;
+    border: 1.5px solid #ddd;
+}
+.thumbnail-center{
+    border: 1.5px solid #ddd;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.thumbnail .caption{
+    background-color: #ddd;
+}
+div{
+    text-align: left;
+}
+.container{
+    border-radius: 0.5em;
+    background-color: #eee;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.text-center{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+ul{
+    text-align: left;
+}
+li{
+    padding-top: 0.5em;
+}
+body{
+   
+    margin: 33px 30% 33px 30%;
+}
+.jumbotron{
+    padding: 33px 50px 33px 50px;
+}
